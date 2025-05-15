@@ -8,10 +8,10 @@ export default function Menubar() {
             <Link href='/'>Home</Link>
           </li>
           <li>
-            <a href='https://expense-green-alpha.vercel.app/' target='_blank'>Midterm Part I - Expense</a>
+            <a href='https://expense-psi-seven.vercel.app/' target='_blank'>Midterm Part I - Expense</a>
           </li>
           <li>
-            <a href='https://customer-weld.vercel.app/' target='_blank'>Midterm Part II Site</a>
+            <a href='https://exam-1-part-2-kappa.vercel.app/' target='_blank'>Midterm Part II Site</a>
           </li>
           <li>
             <Link href='/faq'>FAQ</Link>
@@ -20,4 +20,3 @@ export default function Menubar() {
       </>
     )
   }
-  
