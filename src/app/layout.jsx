@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata = {
-  title: "Qureshi, Anique Final",
+  title: "Rahman, Mezanur Final",
 };
 
 export default function RootLayout({ children }) {
