@@ -54,4 +54,5 @@ export default function Page() {
       </div>
 
       <footer>
-        <p>&co
+      <p>&copy; 2024 Your Company</p>
+      </footer>
