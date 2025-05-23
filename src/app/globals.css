@@ -2,12 +2,7 @@
 @tailwind components;
 @tailwind utilities;
 
-/* Custom global styles */
+/* Optional: Base styles */
 body {
   @apply bg-pink-200 text-black font-sans m-0 p-0;
-}
-
-/* Optional: for hiding notification by default */
-.hidden {
-  display: none;
 }
